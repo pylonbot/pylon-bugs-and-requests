@@ -1,4 +1,4 @@
-# pylonbot-bugs-and-requests
+# [Pylon.bot](https://pylon.bot) Bug Reporting & Feature Requests
 
 You may use this repository to report bugs and feature requests for [Pylon.bot](https://pylon.bot).
 
